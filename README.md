@@ -1,13 +1,12 @@
 The PyData Toolbox
 ------------------
 
-The landscape of numerical programming is among the fastest growing application
-domains for Python. Though we're in the midst of an explosion of
-domain-specific tools for scientific compuing in Python, the vast majority of
-these libraries are built on a small core of foundational
-libraries. Understanding these libraries -- how they work, how they're used,
-and ewhat problems they aim to solve -- is an invaluable tool for effectively
-navigating the PyData ecosystem.
+The numerical programming is among the fastest growing areas of application for
+Python. The recent explosion of domain-specific tools for scientific computing
+in Python can be daunting, but the vast majority of these libraries are built
+on a small core of foundational libraries. Understanding these libraries -- how
+they work, how they're used, and what problems they aim to solve -- is an
+invaluable tool for effectively navigating the PyData ecosystem.
 
 The primary goal of this talk is to provide an introduction to two of these
 core libraries: Numpy and Pandas. We focus in particular on motivating the
