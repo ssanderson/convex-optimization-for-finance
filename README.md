@@ -1,13 +1,5 @@
 The PyData Toolbox
-<<<<<<< dc7e5f75911d0bb9aae8b22b70df41fad5e9879c
-<<<<<<< 76130905cfb4d9c2fc2522e7c4a8df70bec82d1f
 ------------------
-=======
-~~~~~~~~~~~~~~~~~~
->>>>>>> MAINT: Add README.
-=======
-------------------
->>>>>>> Add note on running the slides.
 
 The landscape of numerical programming is among the fastest growing application
 domains for Python. Though we're in the midst of an explosion of
@@ -22,8 +14,6 @@ core libraries: Numpy and Pandas. We focus in particular on motivating the
 design of numpy's `array` class, which serves as the foundational data
 structure for numerical computing in Python.
 
-<<<<<<< dc7e5f75911d0bb9aae8b22b70df41fad5e9879c
-<<<<<<< 76130905cfb4d9c2fc2522e7c4a8df70bec82d1f
 First presented at Boston Algorithmic Trading on Tuesday, Aug 1st, 2017.
 
 Running the Presentation
@@ -43,28 +33,3 @@ root of the repo should be sufficient to install, configure, and run the talk.
 `run.sh` will create a virtualenv named `venv` with all necessary dependencies
 in the root directory of this project. It will then start an instance of the
 Jupyter Notebook server with the RISE extension installed and enabled.
-=======
-
-First presented at Boston Algorithmic Trading on Tuesday, Aug 1st, 2017.
->>>>>>> MAINT: Add README.
-=======
-First presented at Boston Algorithmic Trading on Tuesday, Aug 1st, 2017.
-
-Running the Presentation
-------------------------
-
-This talk was delivered using Damian Avila's excellent
-[RISE](https://github.com/damianavila/RISE/) extension for the Jupyter
-Notebook, which allows users to convert a live, executable notebook into a
-reveal.js presentation. Assuming you have the necessary system dependencies
-(i.e. C and Fortran compiler toolchains), the `run.sh` script included in the
-root of the repo should be sufficient to install, configure, and run the talk.
-
-    $ git clone git@github.com:ssanderson/pydata-toolbox.git
-    $ cd pydata-toolbox
-    $ ./run.sh
-
-`run.sh` will create a virtualenv named `venv` with all necessary dependencies
-in the root directory of this project. It will then start an instance of the
-Jupyter Notebook server with the RISE extension installed and enabled.
->>>>>>> Add note on running the slides.
