@@ -9,8 +9,8 @@ then
 fi
 
 source "$venv_location/bin/activate"
-
-pip install -r requirements.txt
+pip install numpy -c requirements.txt
+pip install -r requirements.txt -c requirements.txt
 
 export JUPYTER_CONFIG_DIR=config
 
