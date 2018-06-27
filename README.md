@@ -1,6 +1,6 @@
 # Convex Optimization for Finance
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/convex-optimization-for-finance/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ssanderson/convex-optimization-for-finance/master)
 
 This repository contains materials used to present **Convex Optimization for
 Finance** a talk given by Scott Sanderson at QuantCon 2018 and later given as a
