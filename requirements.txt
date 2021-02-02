@@ -1,5 +1,5 @@
 backcall==0.1.0
-bleach==2.1.3
+bleach==3.3.0
 bokeh==0.12.15
 bqplot==0.10.5
 certifi==2018.4.16
