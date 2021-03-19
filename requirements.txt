@@ -26,7 +26,7 @@ ipyvolume==0.4.5
 ipywebrtc==0.3.0
 ipywidgets==7.2.1
 jedi==0.12.0
-Jinja2==2.10
+Jinja2==2.11.3
 joblib==0.11
 jsonschema==2.6.0
 jupyter-client==5.2.3
